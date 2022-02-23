@@ -1,0 +1,16 @@
+C:\Users\ruben.vazquez\Documents\appTest\bin\Debug\net5.0\appTest.exe
+C:\Users\ruben.vazquez\Documents\appTest\bin\Debug\net5.0\appTest.deps.json
+C:\Users\ruben.vazquez\Documents\appTest\bin\Debug\net5.0\appTest.runtimeconfig.json
+C:\Users\ruben.vazquez\Documents\appTest\bin\Debug\net5.0\appTest.runtimeconfig.dev.json
+C:\Users\ruben.vazquez\Documents\appTest\bin\Debug\net5.0\appTest.dll
+C:\Users\ruben.vazquez\Documents\appTest\bin\Debug\net5.0\ref\appTest.dll
+C:\Users\ruben.vazquez\Documents\appTest\bin\Debug\net5.0\appTest.pdb
+C:\Users\ruben.vazquez\Documents\appTest\obj\Debug\net5.0\appTest.csproj.AssemblyReference.cache
+C:\Users\ruben.vazquez\Documents\appTest\obj\Debug\net5.0\appTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben.vazquez\Documents\appTest\obj\Debug\net5.0\appTest.AssemblyInfoInputs.cache
+C:\Users\ruben.vazquez\Documents\appTest\obj\Debug\net5.0\appTest.AssemblyInfo.cs
+C:\Users\ruben.vazquez\Documents\appTest\obj\Debug\net5.0\appTest.csproj.CoreCompileInputs.cache
+C:\Users\ruben.vazquez\Documents\appTest\obj\Debug\net5.0\appTest.dll
+C:\Users\ruben.vazquez\Documents\appTest\obj\Debug\net5.0\ref\appTest.dll
+C:\Users\ruben.vazquez\Documents\appTest\obj\Debug\net5.0\appTest.pdb
+C:\Users\ruben.vazquez\Documents\appTest\obj\Debug\net5.0\appTest.genruntimeconfig.cache
